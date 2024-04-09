@@ -1,10 +1,10 @@
 :root {
-  --primary: #1f3e72;
+  --primary: #1b1a55;
   --secondary: rgba(255, 255, 255, 0.78);
-  --black: #131110;
-  --blue-gradient: linear-gradient(97.05deg, #4066ff 3.76%, #2949c6 100%);
+  --black: #070f2b;
+  --blue-gradient: linear-gradient(97.05deg, #9290c3 3.76%, #535c91 100%);
   --orange-gradient: linear-gradient(270deg, #ffb978 0%, #ff922d 100%);
-  --blue: #4066ff;
+  --blue: #0b60b0;
   --lightBlue: #eeeeff;
   --shadow: 0px 23px 21px -8px rgba(136, 160, 255, 0.25);
 }
@@ -67,13 +67,13 @@ a {
 }
 
 .primaryText {
-  color: #1f3e72;
+  color: #1b1a55;
   font-weight: bold;
   font-size: 2rem;
 }
 
 .secondaryText {
-  color: rgb(140 139 139);
+  color: #535c91;
   font-size: 0.9rem;
 }
 .orangeText {
